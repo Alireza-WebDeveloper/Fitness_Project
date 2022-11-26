@@ -69,7 +69,7 @@ const Home = () => {
               component={'h1'}
               p={3}
             >
-              exercies
+              exercises
             </Typography>
           )}
           <Grid container spacing={1}>
