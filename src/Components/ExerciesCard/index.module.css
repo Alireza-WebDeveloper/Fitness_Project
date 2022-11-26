@@ -1,0 +1,23 @@
+.img_Body {
+  animation: bodyPart 2s ease-in-out infinite;
+  -webkit-animation: bodyPart 2s ease-in-out infinite;
+}
+
+@keyframes bodyPart {
+  0% {
+    filter: hue-rotate(0deg);
+    -webkit-filter: hue-rotate(0deg);
+  }
+  30% {
+    filter: hue-rotate(180deg);
+    -webkit-filter: hue-rotate(180deg);
+  }
+  60% {
+    filter: hue-rotate(270deg);
+    -webkit-filter: hue-rotate(270deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+    -webkit-filter: hue-rotate(360deg);
+  }
+}

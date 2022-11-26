@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+:root {
+  --bg: skyblue;
+}
+@font-face {
+  font-family: Anton;
+  src: url('/src/assest/Fonts/Anton/Anton-Regular.ttf');
+}
+@font-face {
+  font-family: Oswald;
+  src: url('/src/assest/Fonts/Oswald/Oswald-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: Domine;
+  src: url('/src/assest/Fonts/Domine/Domine-Bold.ttf');
+}
+
+@font-face {
+  font-family: RobotoSlab;
+  src: url('/src/assest/Fonts/Roboto_Slab/RobotoSlab-Black.ttf');
+}
