@@ -17,9 +17,8 @@ const ExerciseSimilar = ({ exercisesTargetMuscle, exercisesEquipment }) => {
               component={'span'}
               sx={{ color: (theme) => theme.palette.primary.main }}
             >
-              target
+              target muscle
             </Typography>{' '}
-            the same muscle
           </Typography>
           <Stack>
             <HsScrollExerciesSimilar data={exercisesTargetMuscle.list} />
