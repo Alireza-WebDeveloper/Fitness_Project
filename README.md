@@ -1,7 +1,7 @@
 # BodyBuilding Project
 `The language related to this project : `
 + Html5
-+ css3
++ Css3
 + Bootstrap
 + JavaScript
 + React
