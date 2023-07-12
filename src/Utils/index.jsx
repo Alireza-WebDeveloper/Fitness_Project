@@ -3,8 +3,7 @@ import * as Icons2 from 'react-icons/bs';
 import * as Icons3 from 'react-icons/fa';
 const logo_Source =
   'https://images.pngnice.com/download/2100/Gym-Silhoutte-PNG-Photo.png';
-const banner1_Source =
-  'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Ffitness%2Ffitness_PNG45.png&f=1&nofb=1&ipt=de1588d591e4f78a0391c852af9574f8db507d75f3181c3952e52f672623ec3c&ipo=images';
+const banner1_Source = 'https://www.pngfind.com/pngs/m/31-312281_fitness-png-transparent-png.png';
 const Icon_Search = <Icons.MdSearch />;
 const Icon_Menu = <Icons.MdMenu />;
 const Icon_Close = <Icons.MdClose />;
